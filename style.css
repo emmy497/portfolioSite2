@@ -171,14 +171,16 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
+  height: 500px;
   width: 400px;
   margin: auto 0;
+
 }
 
 .section__text {
   align-self: center;
   text-align: center;
+ 
 }
 
 .section__text p {
